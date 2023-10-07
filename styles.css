@@ -1,0 +1,199 @@
+*{
+box-sizing: border-box;
+}
+
+html{
+font-size: 62.5%;
+font-family: 'Inclusive Sans', sans-serif;
+}
+
+header{
+height: 120px;
+width: 100%;
+background: #1877f2;
+}
+
+.logo{
+text-align: center;
+}
+
+.facebook{
+padding-right: 150px;
+font-size: 4rem;
+color: white;
+}
+
+.sign-on{
+text-align: center;
+}
+
+.fix li{
+display: inline-block;
+padding-left: 5px;
+}
+
+.pretty{
+padding: 8px 13px;
+border-radius: 7px;
+}
+
+.move{
+padding-top: 37px;
+}
+
+.share{
+width: 50%;
+float: left;
+height: 120px;
+}
+
+.log{
+font-size: 2rem;
+padding: 5px 22px;
+border-radius: 8px;
+background: #0e52b0;
+color: white;
+}
+
+.sign-on a{
+padding-left: 222px;
+color: white;
+font-size: 1.3rem;
+text-decoration: none;    
+}
+
+.page{
+height: 500px;
+width: 100%;
+background: #f5f6f7;
+}
+
+.sharepage{
+width: 50%;
+height: 500px;
+float: left;
+}
+
+ul{
+text-decoration: none;
+list-style: none;
+}
+
+.list{
+width: 100%;
+height: 282px;
+}
+
+.list i{
+font-size: 3.5rem;
+}
+
+.list p{
+display: inline-block;
+font-size: 2rem;
+}
+
+.list span{
+font-weight: 800;
+}
+
+
+.main-heading{
+width: 100%;
+height: 215px;
+font-size: 2rem;
+padding-left: 82px;
+}
+
+
+.right-side-forms{
+width: 100%;
+height: 215px;
+text-align: center;
+}
+
+.large-form{
+padding: 0px 100px;
+margin-top: 10px;
+}
+
+.large-form input{
+padding: 7px 13px; 
+margin-left:8px;
+margin-top:7px;
+border-radius: 3px;
+}
+
+h2{
+margin-top: 7px;
+margin-right: 277px;
+font-size: 3rem;
+margin-bottom: 5px;
+}
+
+.right-side-forms span{
+font-size: 1.5rem;
+margin-right: 247px;
+}
+
+.second-form input{
+padding: 7px 13px;
+margin-left: 8px;
+margin-top: 7px;
+border-radius: 3px;
+width: 16.5%;
+}
+
+.right-side-forms p{
+text-align: center;
+padding: 0px 183px;
+font-size: 1.1rem;
+}
+
+#to-be{
+margin-right: 318px;
+}
+
+
+#to-be-or-not-to-be{
+margin-right: 326px;
+}
+
+.gbutton{
+width: 24%;
+font-size: 1.5rem;
+padding: 10px 56px;
+margin: 2px 0px;
+border-radius: 8px;
+color: white;
+background: #00a400;
+font-weight: 600;
+}
+
+#bro{
+padding-right: 215px;
+}
+
+#bro2{
+padding-right: 215px;
+}
+
+
+#last-text{
+padding-top: 20px;
+font-size: 1.5rem;
+}
+
+#last-text>span{
+margin: 0;
+font-size: 1.5rem;
+font-weight: 700;
+}
+
+/* 
+#b0b6bd */
+
+/* 
+#00a400 */
+
+/* padding: 7px 13px; */
