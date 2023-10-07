@@ -17,4 +17,4 @@ This was the first project i believed i had gotten a solid grasp of CSS with fro
 ## Example
 Take a look at these example that i have below:
 
-![Image Alt Text](img/facebookimgggg.PNG)
+![Image Alt Text](./img/facebookimgggg.PNG)
